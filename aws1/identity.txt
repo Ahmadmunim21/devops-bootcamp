@@ -1,0 +1,5 @@
+{
+    "UserId": "AIDAWFHKVNL3TE5GKKKFZ",
+    "Account": "423546415863",
+    "Arn": "arn:aws:iam::423546415863:user/devopsadmin"
+}
